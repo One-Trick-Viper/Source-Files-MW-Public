@@ -1,0 +1,7 @@
+Events = {
+	{Time = 0.0", Callback = function(self) self:DisableGrip() end},
+	{Time = 0.833", Callback = function(self) self:EnableGrip() end},
+	{Time = 0.0", Callback = function(self) self:DisableGrip() end},
+	{Time = 0.767", Callback = function(self) self:EnableGrip() end},
+
+}

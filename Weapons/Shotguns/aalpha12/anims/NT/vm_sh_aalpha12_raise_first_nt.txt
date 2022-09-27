@@ -1,0 +1,8 @@
+Events = {
+	{Time = 0.0", Callback = function(self) self:DisableGrip() end},
+	{Time = 0.0", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sh_aalpha12_raise_first_01")) end},
+	{Time = 0.867", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sh_aalpha12_raise_first_03")) end},
+	{Time = 0.167", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sh_aalpha12_raise_first_02")) end},
+	{Time = 1.0", Callback = function(self) self:EnableGrip() end},
+
+}

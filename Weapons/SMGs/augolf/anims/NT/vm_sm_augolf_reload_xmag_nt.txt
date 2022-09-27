@@ -1,0 +1,13 @@
+Events = {
+	{Time = 0.0", Callback = function(self) self:DisableGrip() end},
+	{Time = 1.3", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sm_augolf_reload_05")) end},
+	{Time = 1.033", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sm_augolf_reload_04")) end},
+	{Time = 1.933", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sm_augolf_reload_07")) end},
+	{Time = 1.533", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sm_augolf_reload_06")) end},
+	{Time = 0.067", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sm_augolf_reload_01")) end},
+	{Time = 0.533", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sm_augolf_reload_03")) end},
+	{Time = 0.533", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sm_augolf_reload_02")) end},
+	{Time = 1.6", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sm_augolf_reload_055")) end},
+	{Time = 1.833", Callback = function(self) self:EnableGrip() end},
+
+}

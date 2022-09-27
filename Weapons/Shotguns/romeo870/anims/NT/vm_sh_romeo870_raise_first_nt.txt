@@ -1,0 +1,6 @@
+Events = {
+	{Time = 0.2", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sh_romeo870_raise_first_02")) end},
+	{Time = 0.633", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sh_romeo870_raise_first_03")) end},
+	{Time = 0.0", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sh_romeo870_raise_first_01")) end},
+
+}

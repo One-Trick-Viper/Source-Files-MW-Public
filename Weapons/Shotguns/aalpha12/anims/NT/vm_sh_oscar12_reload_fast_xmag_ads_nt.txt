@@ -1,0 +1,9 @@
+Events = {
+	{Time = 0.867", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sh_aalpha12_reload_fast_xmag_03")) end},
+	{Time = 0.0", Callback = function(self) self:DisableGrip() end},
+	{Time = 1.433", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sh_aalpha12_reload_fast_xmag_04")) end},
+	{Time = 0.533", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sh_aalpha12_reload_fast_xmag_02")) end},
+	{Time = 0.033", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sh_aalpha12_reload_fast_xmag_01")) end},
+	{Time = 1.6", Callback = function(self) self:EnableGrip() end},
+
+}

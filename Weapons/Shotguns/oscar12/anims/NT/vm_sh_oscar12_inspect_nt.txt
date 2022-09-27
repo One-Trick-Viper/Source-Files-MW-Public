@@ -1,0 +1,10 @@
+Events = {
+	{Time = 1.5", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sh_oscar12_inspect_02")) end},
+	{Time = 0.067", Callback = function(self) self:DisableGrip() end},
+	{Time = 0.0", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sh_oscar12_inspect_01")) end},
+	{Time = 3.533", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sh_oscar12_inspect_04")) end},
+	{Time = 2.533", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sh_oscar12_inspect_03")) end},
+	{Time = 4.367", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sh_oscar12_inspect_05")) end},
+	{Time = 4.433", Callback = function(self) self:EnableGrip() end},
+
+}

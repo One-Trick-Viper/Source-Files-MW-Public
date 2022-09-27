@@ -1,0 +1,10 @@
+Events = {
+	{Time = 1.333", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sm_charlie9_reload_empty_fast_xmag_05")) end},
+	{Time = 0.0", Callback = function(self) self:DisableGrip() end},
+	{Time = 1.233", Callback = function(self) self:EnableGrip() end},
+	{Time = 0.767", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sm_charlie9_reload_empty_fast_xmag_03")) end},
+	{Time = 0.233", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sm_charlie9_reload_empty_fast_xmag_02")) end},
+	{Time = 0.133", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sm_charlie9_reload_empty_fast_xmag_01")) end},
+	{Time = 1.067", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sm_charlie9_reload_empty_fast_xmag_04")) end},
+
+}

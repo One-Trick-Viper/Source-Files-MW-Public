@@ -1,0 +1,14 @@
+Events = {
+	{Time = 2.9", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sm_victor_reload_empty_08")) end},
+	{Time = 1.633", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sm_victor_reload_empty_06")) end},
+	{Time = 0.967", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sm_victor_reload_empty_04")) end},
+	{Time = 1.433", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sm_victor_reload_empty_05")) end},
+	{Time = 0.467", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sm_victor_reload_empty_02")) end},
+	{Time = 0.667", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sm_victor_reload_empty_03")) end},
+	{Time = 2.867", Callback = function(self) self:EnableGrip() end},
+	{Time = 0.0", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sm_victor_reload_empty_01")) end},
+	{Time = 2.433", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sm_victor_reload_empty_07")) end},
+	{Time = 1.867", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sm_victor_reload_empty_065")) end},
+	{Time = 0.033", Callback = function(self) self:DisableGrip() end},
+
+}

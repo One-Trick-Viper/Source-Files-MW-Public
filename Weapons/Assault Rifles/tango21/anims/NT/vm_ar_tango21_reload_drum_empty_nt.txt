@@ -1,0 +1,12 @@
+Events = {
+	{Time = 0.067", Callback = function(self) self:DisableGrip() end},
+	{Time = 2.767", Callback = function(self) self:EnableGrip() end},
+	{Time = 1.367", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_ar_tango21_reload_drum_empty_03")) end},
+	{Time = 0.5", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_ar_tango21_reload_drum_empty_02")) end},
+	{Time = 0.1", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_ar_tango21_reload_drum_empty_01")) end},
+	{Time = 2.633", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_ar_tango21_reload_drum_empty_07")) end},
+	{Time = 2.4", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_ar_tango21_reload_drum_empty_06")) end},
+	{Time = 1.9", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_ar_tango21_reload_drum_empty_05")) end},
+	{Time = 1.667", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_ar_tango21_reload_drum_empty_04")) end},
+
+}

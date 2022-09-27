@@ -1,0 +1,10 @@
+Events = {
+	{Time = 0.0", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sh_mike26_reload_empty_fast_smag_01")) end},
+	{Time = 0.333", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sh_mike26_reload_empty_fast_smag_02")) end},
+	{Time = 1.033", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sh_mike26_reload_empty_fast_smag_03")) end},
+	{Time = 1.367", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sh_mike26_reload_empty_fast_smag_04")) end},
+	{Time = 1.8", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sh_mike26_reload_empty_fast_smag_05")) end},
+	{Time = 2.267", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sh_mike26_reload_empty_fast_smag_06")) end},
+	{Time = 1.667", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sh_mike26_reload_empty_fast_smag_045")) end},
+
+}

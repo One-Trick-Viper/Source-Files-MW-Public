@@ -1,0 +1,10 @@
+Events = {
+	{Time = 0.0", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_ar_anovember94_inspect_01")) end},
+	{Time = 2.333", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_ar_anovember94_inspect_03")) end},
+	{Time = 1.433", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_ar_anovember94_inspect_02")) end},
+	{Time = 4.167", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_ar_anovember94_inspect_05")) end},
+	{Time = 3.333", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_ar_anovember94_inspect_04")) end},
+	{Time = 4.3", Callback = function(self) self:EnableGrip() end},
+	{Time = 0.133", Callback = function(self) self:DisableGrip() end},
+
+}

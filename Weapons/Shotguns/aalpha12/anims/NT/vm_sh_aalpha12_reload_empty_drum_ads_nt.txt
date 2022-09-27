@@ -1,0 +1,11 @@
+Events = {
+	{Time = 2.033", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sh_aalpha12_reload_empty_drum_04")) end},
+	{Time = 0.0", Callback = function(self) self:DisableGrip() end},
+	{Time = 3.067", Callback = function(self) self:EnableGrip() end},
+	{Time = 0.767", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sh_aalpha12_reload_empty_drum_02")) end},
+	{Time = 0.0", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sh_aalpha12_reload_empty_drum_01")) end},
+	{Time = 2.433", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sh_aalpha12_reload_empty_drum_05")) end},
+	{Time = 1.667", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sh_aalpha12_reload_empty_drum_03")) end},
+	{Time = 3.167", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sh_aalpha12_reload_empty_drum_06")) end},
+
+}

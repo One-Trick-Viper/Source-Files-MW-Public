@@ -1,0 +1,6 @@
+Events = {
+	{Time = 0.6", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sh_mike26_raise_first_02")) end},
+	{Time = 0.0", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sh_mike26_raise_first_01")) end},
+	{Time = 0.733", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sh_mike26_raise_first_03")) end},
+
+}

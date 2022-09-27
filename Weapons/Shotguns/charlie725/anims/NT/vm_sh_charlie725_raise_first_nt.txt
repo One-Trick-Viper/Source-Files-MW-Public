@@ -1,0 +1,13 @@
+Events = {
+	{Time = 0.633", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sh_charlie725_raise_first_03")) end},
+	{Time = 0.733", Callback = function(self) self:EnableGrip() end},
+	{Time = 0.2", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sh_charlie725_raise_first_02")) end},
+	{Time = 0.1", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sh_charlie725_raise_first_01")) end},
+
+}Events = {
+	{Time = 0.633", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sh_charlie725_raise_first_03")) end},
+	{Time = 0.733", Callback = function(self) self:EnableGrip() end},
+	{Time = 0.2", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sh_charlie725_raise_first_02")) end},
+	{Time = 0.1", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sh_charlie725_raise_first_01")) end},
+
+}

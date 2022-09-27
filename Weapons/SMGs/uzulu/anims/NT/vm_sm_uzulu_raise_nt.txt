@@ -1,0 +1,4 @@
+Events = {
+	{Time = 0.0", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sm_uzulu_raise_01")) end},
+
+}

@@ -1,0 +1,10 @@
+Events = {
+	{Time = 0.0", Callback = function(self) self:DisableGrip() end},
+	{Time = 0.0", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sm_mpapa5_reload_01")) end},
+	{Time = 0.433", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sm_mpapa5_reload_empty_fast_04")) end},
+	{Time = 0.233", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sm_mpapa5_reload_empty_fast_03")) end},
+	{Time = 1.233", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sm_mpapa5_reload_fast_06")) end},
+	{Time = 1.167", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sm_mpapa5_reload_fast_05")) end},
+	{Time = 1.567", Callback = function(self) self:EnableGrip() end},
+
+}

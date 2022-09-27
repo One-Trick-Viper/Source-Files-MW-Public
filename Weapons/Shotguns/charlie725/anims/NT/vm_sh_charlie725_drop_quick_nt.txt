@@ -1,0 +1,7 @@
+Events = {
+	{Time = 0.0", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sh_charlie725_drop_quick_01")) end},
+
+}Events = {
+	{Time = 0.0", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sh_charlie725_drop_quick_01")) end},
+
+}

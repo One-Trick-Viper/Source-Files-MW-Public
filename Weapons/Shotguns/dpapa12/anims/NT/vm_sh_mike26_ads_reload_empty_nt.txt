@@ -1,0 +1,12 @@
+Events = {
+	{Time = 2.033", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sh_dpapa12_reload_empty_06")) end},
+	{Time = 2.367", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sh_dpapa12_reload_empty_07")) end},
+	{Time = 1.267", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sh_dpapa12_reload_empty_04")) end},
+	{Time = 1.667", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sh_dpapa12_reload_empty_05")) end},
+	{Time = 0.433", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sh_dpapa12_reload_empty_02")) end},
+	{Time = 0.633", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sh_dpapa12_reload_empty_03")) end},
+	{Time = 0.0", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sh_dpapa12_reload_empty_01")) end},
+	{Time = 2.767", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sh_dpapa12_reload_empty_08")) end},
+	{Time = 3.167", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sh_dpapa12_reload_empty_09")) end},
+
+}

@@ -1,0 +1,6 @@
+Events = {
+	{Time = 0.0", Callback = function(self) self:DisableGrip() end},
+	{Time = 0.167", Callback = function(self) self:EnableGrip() end},
+	{Time = 0.0", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_ar_anovember94_drop_quick_01")) end},
+
+}

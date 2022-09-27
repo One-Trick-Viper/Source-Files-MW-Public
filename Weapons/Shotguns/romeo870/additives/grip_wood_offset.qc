@@ -1,0 +1,21 @@
+// Weights
+
+// To Sub
+$animation grip_wood_idle_to_sub "anims\vm_sh_romeo870_idle.smd"
+
+// Subbed
+$animation a_grip_wood_idle_to_sub "anims\vm_sh_romeo870_idle.smd" subtract grip_wood_idle_to_sub 0
+$animation a_delta_grip_wood_additive_for_offset "anims\vm_sh_romeo870_grip_wood_pose.smd" subtract grip_wood_idle_to_sub 0
+
+// Delta
+$sequence "grip_wood_offset" {
+	a_grip_wood_idle_to_sub
+	a_delta_grip_wood_additive_for_offset
+
+	$include "macros/grip_wood_blend.qc"
+
+	delta
+	realtime
+}
+
+//remeber to move the ik bone to the wrist when doign thislol!

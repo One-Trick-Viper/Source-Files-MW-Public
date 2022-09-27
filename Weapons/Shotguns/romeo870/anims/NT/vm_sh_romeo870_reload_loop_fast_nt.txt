@@ -1,0 +1,5 @@
+Events = {
+	{Time = 0.0", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sh_romeo870_reload_loop_fast_01")) end},
+	{Time = 0.267", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sh_romeo870_reload_loop_fast_02")) end},
+
+}

@@ -1,0 +1,25 @@
+Events = {
+	{Time = 0.333", Callback = function(self) self:DisableGrip() end},
+	{Time = 0.0", Callback = function(self) self:DisableGrip() end},
+	{Time = 1.4", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sh_charlie725_reload_fast_scope_06")) end},
+	{Time = 1.367", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sh_charlie725_reload_fast_scope_05")) end},
+	{Time = 0.933", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sh_charlie725_reload_fast_scope_04")) end},
+	{Time = 0.567", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sh_charlie725_reload_fast_scope_03")) end},
+	{Time = 0.1", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sh_charlie725_reload_fast_scope_02")) end},
+	{Time = 0.0", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sh_charlie725_reload_fast_scope_01")) end},
+	{Time = 1.367", Callback = function(self) self:EnableGrip() end},
+	{Time = 0.533", Callback = function(self) self:EnableGrip() end},
+
+}Events = {
+	{Time = 0.333", Callback = function(self) self:DisableGrip() end},
+	{Time = 0.0", Callback = function(self) self:DisableGrip() end},
+	{Time = 1.4", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sh_charlie725_reload_fast_scope_06")) end},
+	{Time = 1.367", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sh_charlie725_reload_fast_scope_05")) end},
+	{Time = 0.933", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sh_charlie725_reload_fast_scope_04")) end},
+	{Time = 0.567", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sh_charlie725_reload_fast_scope_03")) end},
+	{Time = 0.1", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sh_charlie725_reload_fast_scope_02")) end},
+	{Time = 0.0", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sh_charlie725_reload_fast_scope_01")) end},
+	{Time = 1.367", Callback = function(self) self:EnableGrip() end},
+	{Time = 0.533", Callback = function(self) self:EnableGrip() end},
+
+}

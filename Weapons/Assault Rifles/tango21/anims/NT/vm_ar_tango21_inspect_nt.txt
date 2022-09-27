@@ -1,0 +1,10 @@
+Events = {
+	{Time = 0.133", Callback = function(self) self:DisableGrip() end},
+	{Time = 2.533", Callback = function(self) self:EnableGrip() end},
+	{Time = 4.167", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_ar_tango21_inspect_05")) end},
+	{Time = 3.4", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_ar_tango21_inspect_04")) end},
+	{Time = 0.033", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_ar_tango21_inspect_01")) end},
+	{Time = 2.333", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_ar_tango21_inspect_03")) end},
+	{Time = 1.433", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_ar_tango21_inspect_02")) end},
+
+}

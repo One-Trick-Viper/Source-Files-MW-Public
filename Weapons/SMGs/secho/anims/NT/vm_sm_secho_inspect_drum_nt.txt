@@ -1,0 +1,8 @@
+Events = {
+	{Time = 1.8", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sm_secho_inspect_drum_02")) end},
+	{Time = 0.1", Callback = function(self) self:DisableGrip() end},
+	{Time = 4.7", Callback = function(self) self:EnableGrip() end},
+	{Time = 4.0", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sm_secho_inspect_drum_03")) end},
+	{Time = 0.067", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sm_secho_inspect_drum_01")) end},
+
+}

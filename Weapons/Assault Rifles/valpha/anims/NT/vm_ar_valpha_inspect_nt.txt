@@ -1,0 +1,15 @@
+Events = {
+	{Time = 0.167", Callback = function(self) self:DisableGrip() end},
+	{Time = 4.767", Callback = function(self) self:EnableGrip() end},
+	{Time = 3.033", Callback = function(self) self:DisableGrip() end},
+	{Time = 4.967", Callback = function(self) self:EnableGrip() end},
+	{Time = 4.967", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_ar_valpha_inspect_08")) end},
+	{Time = 3.4", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_ar_valpha_inspect_06")) end},
+	{Time = 4.2", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_ar_valpha_inspect_07")) end},
+	{Time = 2.067", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_ar_valpha_inspect_04")) end},
+	{Time = 2.7", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_ar_valpha_inspect_05")) end},
+	{Time = 0.633", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_ar_valpha_inspect_02")) end},
+	{Time = 1.4", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_ar_valpha_inspect_03")) end},
+	{Time = 0.1", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_ar_valpha_inspect_01")) end},
+
+}
