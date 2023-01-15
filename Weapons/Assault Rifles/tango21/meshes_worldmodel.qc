@@ -16,19 +16,7 @@ $bodygroup "tag_sight"
 	blank
 }
 
-$bodygroup "tag_tip"
-{
-	studio "meshes/attachment_vm_ar_tango21_tag_tip_1.smd"
-	blank
-	studio "meshes/attachment_vm_ar_tango21_tag_tip_2.smd"
-	blank
-	studio "meshes/attachment_vm_ar_tango21_tag_tip_3.smd"
-	blank
-	studio "meshes/attachment_vm_ar_tango21_tag_tip_4.smd"
-	blank
-}
-
-$bodygroup "tag_grip_hide"
+$bodygroup "tag_barrel_hide"
 {
 	studio "meshes/attachment_vm_ar_tango21_grip_hide.smd"
 	blank

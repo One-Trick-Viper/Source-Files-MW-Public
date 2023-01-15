@@ -1,0 +1,6 @@
+Events = {
+	{Time = 0.667", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sn_sbeta_reload_start_03")) end},
+	{Time = 0.4", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sn_sbeta_reload_start_02")) end},
+	{Time = 0.0", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sn_sbeta_reload_start_01")) end},
+
+}

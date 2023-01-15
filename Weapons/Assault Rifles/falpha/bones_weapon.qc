@@ -2,6 +2,7 @@
 
 $definebone "ValveBiped.Anim_Attachment_RH" "" 0 0 0 0 0 0 0 0 0 0 0 0
 $definebone "tag_sling" "ValveBiped.Anim_Attachment_RH" 0 0 0 0 0 0 0 0 0 0 0 0
+$definebone "tag_align_gun" "tag_sight_on" -0.258999 0.000000 0.978998 -0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 -0.000000 0.000000 0.000000
 
 $bonemerge "tag_barrel_attach"
 $bonemerge "j_slide"

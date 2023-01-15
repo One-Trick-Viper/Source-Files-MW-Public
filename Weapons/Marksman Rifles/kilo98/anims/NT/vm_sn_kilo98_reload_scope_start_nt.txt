@@ -1,0 +1,7 @@
+Events = {
+	{Time = 0.3", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sn_kilo98_reload_scope_start_02")) end},
+	{Time = 0.867", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sn_kilo98_reload_scope_start_03")) end},
+	{Time = 0.067", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sn_kilo98_reload_scope_start_01")) end},
+	{Time = 0.9", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sn_kilo98_reload_scope_start_04")) end},
+
+}

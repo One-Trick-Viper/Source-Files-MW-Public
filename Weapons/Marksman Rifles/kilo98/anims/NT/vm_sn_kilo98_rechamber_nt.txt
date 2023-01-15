@@ -1,0 +1,8 @@
+Events = {
+	{Time = 0.633", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sn_kilo98_rechamber_04")) end},
+	{Time = 0.067", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sn_kilo98_rechamber_01")) end},
+	{Time = 0.6", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sn_kilo98_rechamber_03")) end},
+	{Time = 0.233", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sn_kilo98_rechamber_02")) end},
+	{Time = 1.067", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sn_kilo98_rechamber_scope_05")) end},
+
+}

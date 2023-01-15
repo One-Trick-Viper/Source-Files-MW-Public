@@ -19,7 +19,7 @@ $bodygroup "mag"
 }
 
 
-$bodygroup "rail"
+$bodygroup "tag_rail"
 {
 	blank
 	studio "meshes/attachment_vm_pi_cpapa_rail.smd"

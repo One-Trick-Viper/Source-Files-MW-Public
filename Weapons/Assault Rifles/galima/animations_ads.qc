@@ -4,7 +4,9 @@ $scale 1
 
 $sequence "ads_in" {
 	"anims\vm_ar_galima_ads_up.smd"
-
+{ event 5004 3 "weap_ar_galima_ads_up" }
+{ event 9011 0 "1" }
+{ event 9011 0 "1" }
 	$include "macros/layers_noaim.qc"
 
 	$include "macros/ik.qc"
@@ -14,7 +16,9 @@ $sequence "ads_in" {
 
 $sequence "ads_out" {
 	"anims\vm_ar_galima_ads_down.smd"
-
+{ event 5004 3 "weap_ar_galima_ads_down" }
+{ event 9011 0 "1" }
+{ event 9011 0 "1" }
 	$include "macros/layers_noaim.qc"
 	
 	$include "macros/ik.qc"

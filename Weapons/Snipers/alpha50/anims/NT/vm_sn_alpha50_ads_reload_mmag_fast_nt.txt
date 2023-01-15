@@ -1,0 +1,8 @@
+Events = {
+	{Time = 1.5", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sn_alpha50_reload_fast_035")) end},
+	{Time = 1.3", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sn_alpha50_reload_fast_04")) end},
+	{Time = 0.367", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sn_alpha50_reload_fast_02")) end},
+	{Time = 1.167", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sn_alpha50_reload_fast_03")) end},
+	{Time = 0.133", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sn_alpha50_reload_fast_01")) end},
+
+}

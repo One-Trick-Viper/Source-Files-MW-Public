@@ -1,0 +1,6 @@
+Events = {
+	{Time = 0.033", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sn_mike14_hybrid_scope_snap_closed")) end},
+	{Time = 0.833", Callback = function(self) self:EnableGrip() end},
+	{Time = 0.0", Callback = function(self) self:DisableGrip() end},
+
+}

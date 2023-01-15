@@ -13,4 +13,4 @@ $attachment	 "hybrid"	"tag_hybrid" 0 0 0 rotate 0 0 0
 $attachment	 "thermal"	"tag_thermal" 0 0 0 rotate 0 0 0
 $attachment	 "grip"	"tag_grip_attach" 0 0 0 rotate 0 0 0
 $attachment	 "folding_grip"	"tag_folding_grip" 0 0 0 rotate 0 0 0
-$attachment "align" "tag_align_gun" -1.00 0.00 -1.53 rotate -0 0 0
+$attachment   "align" "tag_align_gun" 0 0.00 0 rotate -0 0 0

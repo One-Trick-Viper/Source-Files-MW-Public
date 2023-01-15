@@ -1,0 +1,15 @@
+Events = {
+	{Time = 3.933", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sn_romeo700_inspect_xmags_08")) end},
+	{Time = 2.9", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sn_romeo700_inspect_xmags_06")) end},
+	{Time = 3.567", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sn_romeo700_inspect_xmags_07")) end},
+	{Time = 0.067", Callback = function(self) self:DisableGrip() end},
+	{Time = 2.467", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sn_romeo700_inspect_xmags_05")) end},
+	{Time = 0.367", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sn_romeo700_inspect_xmags_02")) end},
+	{Time = 1.433", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sn_romeo700_inspect_xmags_03")) end},
+	{Time = 0.033", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sn_romeo700_inspect_xmags_01")) end},
+	{Time = 2.633", Callback = function(self) self:DisableGrip() end},
+	{Time = 2.133", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sn_romeo700_inspect_xmags_04")) end},
+	{Time = 2.4", Callback = function(self) self:EnableGrip() end},
+	{Time = 4.4", Callback = function(self) self:EnableGrip() end},
+
+}

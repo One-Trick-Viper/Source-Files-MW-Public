@@ -2,8 +2,6 @@
 
 $definebone "ValveBiped.Bip01_R_Hand" "" 0 0 0 0 0 0 0 0 0 0 0 0
 $definebone "tag_sling" "ValveBiped.Bip01_R_Hand" 0 0 0 0 0 0 0 0 0 0 0 0
-$definebone "tag_sight_off" "tag_sling" 0 0 0 0 0 0 0 0 0 0 0 0
-$definebone "tag_sight_on" "tag_sling" 0 0 0 0 0 0 0 0 0 0 0 0
 
 $bonemerge "tag_barrel_attach"
 $bonemerge "j_slide"
@@ -20,6 +18,7 @@ $bonemerge "tag_ik_loc_ri"
 $bonemerge "tag_ik_loc_le"
 $bonemerge "tag_mag_hide"
 $bonemerge "tag_stock_hide"
+$bonemerge "tag_sight_off"
 $bonemerge "tag_mag_show2"
 $bonemerge "tag_mag_show"
 $bonemerge "tag_hybrid"

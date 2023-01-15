@@ -1,0 +1,4 @@
+Events = {
+	{Time = 0.033", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sn_kilo98_hybrid_scope_side_off")) end},
+
+}

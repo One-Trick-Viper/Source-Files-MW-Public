@@ -3,43 +3,32 @@ $illumposition 0 0 0
 
 $origin 0 0 0 -90
 
-$bodygroup "receiver"
+$bodygroup "1"
 {
+	blank
 	studio "meshes/w_mpapa7.smd"
 }
 
-$bodygroup "tag_tip"
-{
-	studio "meshes/attachment_vm_sm_mpapa7_tag_tip_1.smd"
-	blank
-	studio "meshes/attachment_vm_sm_mpapa7_tag_tip_2.smd"
-	blank
-	studio "meshes/attachment_vm_sm_mpapa7_tag_tip_3.smd"
-	blank
-	studio "meshes/attachment_vm_sm_mpapa7_tag_tip_4.smd"
-	blank
-}
-
-$bodygroup "tag_laser"
+$bodygroup "2"
 {
 	blank
 	studio "meshes/attachment_vm_sm_mpapa7_tag_laser.smd"
 }
 
-$bodygroup "tag_sight"
+$bodygroup "3"
 {
+	blank
 	studio "meshes/attachment_vm_sm_mpapa7_tag_sight_on.smd"
 	studio "meshes/attachment_vm_sm_mpapa7_tag_sight_off.smd"
-	blank
 }
 
-$bodygroup "tag_stock_adapter"
+$bodygroup "4"
 {
 	blank
 	studio "meshes/attachment_vm_sm_mpapa7_tag_stock_attach.smd"
 }
 
-$bodygroup "tag_ub_rail"
+$bodygroup "5"
 {
 	blank
 	studio "meshes/attachment_vm_sm_mpapa7_ub_rail.smd"

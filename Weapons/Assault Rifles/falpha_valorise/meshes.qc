@@ -17,6 +17,12 @@ $bodygroup "sight"
 	blank
 }
 
+$bodygroup "tag_stock"
+{
+	studio "meshes/attachment_vm_ar_falpha_stock_attach.smd"
+	blank
+}
+
 $bodygroup "tag_toprail"
 {
 	studio "meshes/attachment_vm_ar_falpha_toprail.smd"

@@ -1,0 +1,19 @@
+Events = {
+	{Time = 3.033, Callback = function(self) self:DoSound(Sound("wfoly_plr_sn_hdromeo_reload_empty_fast_09")) end},
+	{Time = 2.5, Callback = function(self) self:DoSound(Sound("wfoly_plr_sn_hdromeo_reload_empty_fast_08")) end},
+	{Time = 0.1, Callback = function(self) self:DoSound(Sound("wfoly_plr_sn_hdromeo_reload_empty_fast_01")) end},
+	{Time = 0.767, Callback = function(self) self:DoSound(Sound("wfoly_plr_sn_hdromeo_reload_empty_fast_03")) end},
+	{Time = 0.2, Callback = function(self) self:DoSound(Sound("wfoly_plr_sn_hdromeo_reload_empty_fast_02")) end},
+	{Time = 1.333, Callback = function(self) self:DoSound(Sound("wfoly_plr_sn_hdromeo_reload_empty_fast_05")) end},
+	{Time = 1.2, Callback = function(self) self:DoSound(Sound("wfoly_plr_sn_hdromeo_reload_empty_fast_04")) end},
+	{Time = 2.133, Callback = function(self) self:DoSound(Sound("wfoly_plr_sn_hdromeo_reload_empty_fast_07")) end},
+	{Time = 2.133, Callback = function(self) self:DoSound(Sound("wfoly_plr_sn_hdromeo_reload_empty_fast_06")) end},
+	{Time = 3.567, Callback = function(self) self:EnableGrip() end},
+	{Time = 0.0, Callback = function(self) self:DisableGrip() end},
+	{Time = 3.067, Callback = function(self) self:DoSound(Sound("wfoly_plr_sn_hdromeo_reload_empty_fast_10")) end},
+	{Time = 3.333, Callback = function(self) self:DoSound(Sound("wfoly_plr_sn_hdromeo_reload_empty_fast_11")) end},
+	{Time = 2.8, Callback = function(self) self:EnableGrip() end},
+	{Time = 0.0, Callback = function(self) self:DisableGrip() end},
+	{Time = 2.5, Callback = function(self) self:DoSound(Sound("wfoly_plr_sn_hdromeo_reload_empty_fast_075")) end},
+
+}

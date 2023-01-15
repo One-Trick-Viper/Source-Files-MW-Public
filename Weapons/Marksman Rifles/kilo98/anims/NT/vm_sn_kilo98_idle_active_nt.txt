@@ -1,0 +1,9 @@
+Events = {
+	{Time = 24.033", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sn_kilo98_idle_active_06")) end},
+	{Time = 22.767", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sn_kilo98_idle_active_05")) end},
+	{Time = 21.867", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sn_kilo98_idle_active_04")) end},
+	{Time = 16.3", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sn_kilo98_idle_active_03")) end},
+	{Time = 9.4", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sn_kilo98_idle_active_02")) end},
+	{Time = 3.867", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sn_kilo98_idle_active_01")) end},
+
+}

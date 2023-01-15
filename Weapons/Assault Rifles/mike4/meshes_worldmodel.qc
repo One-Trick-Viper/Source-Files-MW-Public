@@ -4,12 +4,16 @@ $illumposition 0 0 0
 
 $origin 0 0 0 -90
 
-$bodygroup "receiver"
+$bodygroup "1"
 {
 	blank
-	blank
-	blank
 	studio "meshes/w_mike4.smd"
+}
+
+$bodygroup "2"
+{
+	blank
+	studio "meshes/attachment_vm_ar_mike4_tag_sight_off.smd"
 }
 
 $bodygroup "ejection_cover"

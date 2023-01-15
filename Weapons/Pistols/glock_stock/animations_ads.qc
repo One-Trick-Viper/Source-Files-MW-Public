@@ -4,7 +4,9 @@ $scale 1
 
 $sequence "ads_in" {
 	"anims\vm_pi_golf21_stock_ads_up.smd"
-
+{ event 5004 3 "weap_pi_golf21_ads_up" }
+{ event 9011 0 "1" }
+{ event 9011 0 "1" }
 	//$include "macros/layers_noaim.qc"
 
 	addlayer "jog_loop"
@@ -20,7 +22,9 @@ $sequence "ads_in" {
 
 $sequence "ads_out" {
 	"anims\vm_pi_golf21_stock_ads_down.smd"
-
+{ event 5004 3 "weap_pi_golf21_ads_down" }
+{ event 9011 0 "1" }
+{ event 9011 0 "1" }
 	//$include "macros/layers_noaim.qc"
 
 	addlayer "jog_loop"

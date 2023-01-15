@@ -1,0 +1,12 @@
+Events = {
+	{Time = 2.8", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sn_alpha50_reload_empty_055")) end},
+	{Time = 1.3", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sn_alpha50_reload_empty_03")) end},
+	{Time = 3.733", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sn_alpha50_reload_empty_08")) end},
+	{Time = 3.1", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sn_alpha50_reload_empty_06")) end},
+	{Time = 3.733", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sn_alpha50_reload_empty_07")) end},
+	{Time = 1.533", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sn_alpha50_reload_empty_04")) end},
+	{Time = 2.5", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sn_alpha50_reload_empty_05")) end},
+	{Time = 0.367", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sn_alpha50_reload_empty_02")) end},
+	{Time = 0.2", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sn_alpha50_reload_empty_01")) end},
+
+}

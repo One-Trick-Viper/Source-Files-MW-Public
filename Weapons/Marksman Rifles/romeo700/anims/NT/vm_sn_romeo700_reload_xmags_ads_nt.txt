@@ -1,0 +1,10 @@
+Events = {
+	{Time = 0.167", Callback = function(self) self:DisableGrip() end},
+	{Time = 2.533", Callback = function(self) self:EnableGrip() end},
+	{Time = 0.033", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sn_romeo700_reload_xmags_01")) end},
+	{Time = 0.367", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sn_romeo700_reload_xmags_02")) end},
+	{Time = 1.5", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sn_romeo700_reload_xmags_03")) end},
+	{Time = 2.367", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sn_romeo700_reload_xmags_05")) end},
+	{Time = 2.1", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sn_romeo700_reload_xmags_04")) end},
+
+}

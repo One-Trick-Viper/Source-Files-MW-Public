@@ -10,12 +10,16 @@ $bodygroup "worldmodel"
 	studio "meshes/w_falpha.smd"
 }
 
-
-
 $bodygroup "sight"
 {
 	studio "meshes/attachment_vm_ar_falpha_sight_on.smd"
 	studio "meshes/attachment_vm_ar_falpha_sight_off.smd"
+	blank
+}
+
+$bodygroup "tag_stock"
+{
+	studio "meshes/attachment_vm_ar_falpha_stock_attach.smd"
 	blank
 }
 

@@ -17,6 +17,7 @@ $include bones_mwrig.qci
 
 // Weapon Bones
 $include bones_weapon.qc
+//$include "bones_vmodel.qci"
 
 // Attachments
 $include attachments.qc

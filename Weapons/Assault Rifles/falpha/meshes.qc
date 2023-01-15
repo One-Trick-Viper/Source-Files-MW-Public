@@ -31,12 +31,11 @@ $bodygroup "tag_grip_hide"
 $scale 1
 $bodygroup "tag_rail"
 {
-	studio "meshes/attachment_vm_ar_falpha_toprail_crust.smd"
 	studio "meshes/attachment_vm_ar_falpha_toprail_cust2.smd"
 }
 $bodygroup "sight"
 {
-	blank
+	studio "meshes/attachment_vm_ar_falpha_toprail_sight_on.smd"
 	studio "meshes/attachment_vm_ar_falpha_toprail_sight_off.smd"
 	blank
 }

@@ -10,7 +10,7 @@ $bodygroup "worldmodel"
 	studio "meshes/w_asierra12.smd"
 }
 
-$bodygroup "tag_rail"
+$bodygroup "tag_top_rail"
 {
 	studio "meshes/attachment_vm_ar_asierra12_toprail.smd"
 	blank

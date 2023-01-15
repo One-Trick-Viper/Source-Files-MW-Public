@@ -13,8 +13,8 @@ $include meshes.qc
 // C Hands Bones
 $include bones_chands.qci
 
-// MW Rig Bones
-// $include bones_mwrig.qci
+//MW Rig Bones
+$include bones_mwrig.qci
 
 // Weapon Bones
 $include bones_weapon.qc

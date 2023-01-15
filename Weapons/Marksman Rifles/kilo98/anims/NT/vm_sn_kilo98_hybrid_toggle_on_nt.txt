@@ -1,0 +1,6 @@
+Events = {
+	{Time = 0.0", Callback = function(self) self:DisableGrip() end},
+	{Time = 0.133", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sn_kilo98_hybrid_scope_snap_open")) end},
+	{Time = 0.733", Callback = function(self) self:EnableGrip() end},
+
+}

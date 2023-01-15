@@ -1,0 +1,10 @@
+Events = {
+	{Time = 0.0", Callback = function(self) self:DisableGrip() end},
+	{Time = 1.533", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sn_sksierra_reload_xmag_035")) end},
+	{Time = 2.133", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sn_sksierra_reload_xmag_04")) end},
+	{Time = 0.0", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sn_sksierra_reload_xmag_01")) end},
+	{Time = 2.367", Callback = function(self) self:EnableGrip() end},
+	{Time = 1.067", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sn_sksierra_reload_xmag_03")) end},
+	{Time = 0.7", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sn_sksierra_reload_xmag_02")) end},
+
+}

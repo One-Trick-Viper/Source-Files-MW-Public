@@ -1,0 +1,13 @@
+Events = {
+	{Time = 0.133", Callback = function(self) self:DisableGrip() end},
+	{Time = 1.433", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sn_delta_reload_fast_xmag_045")) end},
+	{Time = 1.767", Callback = function(self) self:EnableGrip() end},
+	{Time = 1.7", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sn_delta_reload_fast_xmag_05")) end},
+	{Time = 0.0", Callback = function(self) self:DisableGrip() end},
+	{Time = 1.2", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sn_delta_reload_empty_fast_xmag_04")) end},
+	{Time = 0.233", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sn_delta_reload_empty_fast_xmag_01")) end},
+	{Time = 0.633", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sn_delta_reload_empty_fast_xmag_02")) end},
+	{Time = 0.8", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_sn_delta_reload_empty_fast_xmag_03")) end},
+	{Time = 1.733", Callback = function(self) self:EnableGrip() end},
+
+}

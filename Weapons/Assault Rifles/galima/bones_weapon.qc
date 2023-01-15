@@ -1,7 +1,7 @@
 //WEAPON BONES
 
 $definebone "ValveBiped.Bip01_R_Hand" "" 0 0 0 0 0 0 0 0 0 0 0 0
-$definebone "tag_sling" "ValveBiped.Bip01_R_Hand" 0 0 0 0 0 0 0 0 0 0 0 0
+$definebone "tag_sling" "" 0 0 0 0 0 0 0 0 0 0 0 0
 
 $bonemerge "tag_barrel_attach"
 $bonemerge "j_slide"
