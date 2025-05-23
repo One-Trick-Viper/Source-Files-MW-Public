@@ -28,6 +28,8 @@ $mostlyopaque
 
 // Materials
 $cdmaterials "viper\MW\weapons\gamma3\"
+$cdmaterials "viper\cs2\weapons\weapon_snip_g3sg1\"
+
 
 //Ik
 $ikchain rhand "j_wrist_ri" knee 0.707 0.707 0

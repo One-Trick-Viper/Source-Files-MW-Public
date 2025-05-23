@@ -44,7 +44,7 @@ $sequence "draw" {
 
 $sequence "draw_first" {
 	"anims/vm_sh_romeo870_raise_first.smd"
-{ event 5004 0 "wfoly_plr_sh_romeo870_raise_first_01" }
+{ event 5004 1 "wfoly_plr_sh_romeo870_raise_first_01" }
 { event 5004 6 "wfoly_plr_sh_romeo870_raise_first_02" }
 { event 5004 11 "Viewmodel.Large" }
 { event 5004 18 "Viewmodel.Large" }
@@ -151,8 +151,8 @@ $sequence "reload_loop_fast" {
 	"anims/vm_sh_romeo870_reload_loop_fast.smd"
 { event 9011 0 "0" }
 { event 9021 0 "0" }
-{ event 5004 0 "wfoly_plr_sh_romeo870_reload_loop_fast_01" }
-{ event 5004 8 "wfoly_plr_sh_romeo870_reload_loop_fast_02" }
+{ event 5004 0 "wfoly_plr_sh_romeo870_reload_loop_01" }
+{ event 5004 8 "wfoly_plr_sh_romeo870_reload_loop_03" }
 { event 5004 13 "Viewmodel.Large" }
 
 	$include "macros/aim_blend.qc"
@@ -165,9 +165,10 @@ $sequence "reload_loop_fast" {
 $sequence "reload_end_fast" {
 	"anims/vm_sh_romeo870_reload_end_fast.smd"
 	"anims/vm_sh_romeo870_reload_end_fast.smd"
+{ event 9011 0 "0" }
 { event 5004 0 "wfoly_plr_sh_romeo870_reload_end_fast_01" }
 //ik_in_start_left_hand
-{ event 9011 5 "1" }
+{ event 9011 10 "1" }
 //ik_in_start_right_hand
 { event 9021 6 "1" }
 { event 5004 16 "wfoly_plr_sh_romeo870_reload_end_fast_02" }
@@ -182,9 +183,10 @@ $sequence "reload_end_fast" {
 $sequence "reload_end_empty_fast" {
 	"anims/vm_sh_romeo870_reload_end_fast_rechamber.smd"
 	"anims/vm_sh_romeo870_reload_end_rechamber_ads_fast.smd"
+{ event 9011 0 "0" }
 { event 5004 0 "wfoly_plr_sh_romeo870_reload_end_fast_01" }
 //ik_in_start_right_hand
-{ event 9021 6 "1" }
+{ event 9021 10 "1" }
 //ik_in_start_left_hand
 { event 9011 9 "1" }
 { event 5004 10 "wfoly_plr_sh_romeo870_rechamber_01" }

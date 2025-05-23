@@ -134,6 +134,8 @@ $sequence "reload_empty_xxlmag" {
 { event 9011 96 "1" }
 { event 5004 100 "wpn_fnovember2000_plr_reload_sml_movement" }
 { event 5004 104 "Viewmodel.Small" }
+//show_full_magazine
+{ event 9031 43 "ResetBullets" }
 
 	$include "macros/aim_blend.qc"
 	$include "macros/layers_noemptyoffset.qc"
@@ -162,6 +164,8 @@ $sequence "reload_empty_extmag" {
 { event 9011 111 "1" }
 { event 5004 116 "wpn_fnovember2000_plr_reload_sml_movement" }
 { event 5004 120 "Viewmodel.Small" }
+//show_full_magazine
+{ event 9031 50 "ResetBullets" }
 
 	$include "macros/aim_blend.qc"
 	$include "macros/layers_noemptyoffset.qc"
@@ -238,6 +242,8 @@ $sequence "reload_xxlmag" {
 { event 5004 68 "Viewmodel.Small" }
 { event 5004 70 "wpn_fnovember2000_plr_reload_sml_movement" }
 { event 5004 75 "Viewmodel.Small" }
+//show_full_magazine
+{ event 9031 43 "ResetBullets" }
 
 	$include "macros/aim_blend.qc"
 	$include "macros/layers_noemptyoffset.qc"
@@ -262,6 +268,8 @@ $sequence "reload_extmag" {
 { event 9011 81 "1" }
 { event 5004 85 "wpn_fnovember2000_plr_reload_sml_movement" }
 { event 5004 90 "Viewmodel.Small" }
+//show_full_magazine
+{ event 9031 43 "ResetBullets" }
 
 	$include "macros/aim_blend.qc"
 	$include "macros/layers_noemptyoffset.qc"

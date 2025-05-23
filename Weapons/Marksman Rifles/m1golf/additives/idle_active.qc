@@ -8,11 +8,11 @@ $weightlist "weights_wpnonly" {
 
 // To Sub
 $animation a_normalidle_to_sub "anims\s4_vm_ar_m1golf_base_idle.smd"
-$animation fuckedpose_to_sub "anims\s4_vm_ar_stango44_base_idle_active.smd" //this looks fucked
+$animation fuckedpose_to_sub "anims\vm_ar_mike4_idle_active.smd" //this looks fucked
 
 // Subbed
 $animation a_zerodiff "anims\s4_vm_ar_m1golf_base_idle.smd" fps 0.0389 subtract a_normalidle_to_sub 0
-$animation a_fidget "anims\s4_vm_ar_stango44_base_idle_active.smd" subtract fuckedpose_to_sub 0
+$animation a_fidget "anims\vm_ar_mike4_idle_active.smd" subtract fuckedpose_to_sub 0
 
 // Delta
 $sequence "a_idle_active" {

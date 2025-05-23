@@ -1,0 +1,12 @@
+Events = {
+	{Time = 1.067", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_ar_anovember94_reload_xmagslrg_04")) end},
+	{Time = 1.4", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_ar_anovember94_reload_xmagslrg_05")) end},
+	{Time = 2.067", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_ar_anovember94_reload_xmagslrg_06")) end},
+	{Time = 0.133", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_ar_anovember94_reload_xmagslrg_01")) end},
+	{Time = 0.367", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_ar_anovember94_reload_xmagslrg_02")) end},
+	{Time = 0.633", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_ar_anovember94_reload_xmagslrg_03")) end},
+	{Time = 0.0", Callback = function(self) self:DisableGrip() end},
+	{Time = 2.233", Callback = function(self) self:EnableGrip() end},
+	{Time = 1.733", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_ar_anovember94_reload_xmagslrg_055")) end},
+
+}

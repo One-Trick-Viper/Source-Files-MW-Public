@@ -1,0 +1,4 @@
+Events = {
+	{Time = 0.0", Callback = function(self) self:DoSound(Sound("ps_wfoly_plr_ar_tango21_drop_quick_01")) end},
+
+}

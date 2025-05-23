@@ -8,10 +8,6 @@ $bodygroup "receiver"
 {
 	studio "meshes/attachment_vm_sn_sbeta_receiver.smd"
 }
-$bodygroup "receiver_spec"
-{
-	studio "meshes/attachment_vm_sn_sbeta_receiver_s.smd"
-}
 $jigglebone "j_hoop" {
 	is_flexible {
         length 0.75

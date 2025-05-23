@@ -6,5 +6,5 @@ $origin 0 0 0 -90
 
 $bodygroup "base"
 {
-	studio "meshes/v_ar_m1golf.dmx"
+	studio "meshes/m1golf_receiver.smd"
 }

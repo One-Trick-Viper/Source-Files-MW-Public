@@ -35,6 +35,7 @@ $ikchain lhand "j_wrist_le" knee 0.707 0.707 0
 
 // Animations
 $include animations_basic.qc
+$include animations_gl.qc
 $include animations_ads.qc
 $include animations_delta.qc
 //$include animations_soh.qc

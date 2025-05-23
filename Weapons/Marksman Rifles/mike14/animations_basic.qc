@@ -39,6 +39,7 @@ $sequence "draw" {
 
 $sequence "draw_first" {
 	"anims/vm_sn_mike14_raise_first.smd"
+{ event 9021 0 "0" }
 { event 5004 6 "wfoly_plr_sn_mike14_raise_first_01" }
 { event 5004 14 "wfoly_plr_sn_mike14_raise_first_02" }
 { event 5004 15 "Viewmodel.Medium" }
@@ -444,7 +445,11 @@ $sequence "fire" {
 $sequence "fire_last" {
 	"anims/vm_sn_mike14_fire_last.smd"
 	"anims/vm_sn_mike14_ads_fire_last.smd"
-
+{ event 9001 1 "MuzzleFlash muzzle" }
+{ event 6001 1 "shell_eject" }
+{ event 9001 1 "Ejection shell_eject" }
+{ event 9011 0 "1" }
+{ event 9011 0 "1" }
 	$include "macros/aim_blend.qc"
 	$include "macros/layers.qc"
 	$include "macros/ik.qc"

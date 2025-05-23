@@ -9,17 +9,8 @@ $sequence "ads_in" {
 { event 9011 0 "1" }
 	//$include "macros/layers_noaim.qc"
 
-	addlayer "jog_loop"
-	addlayer "jog_offset"
-	addlayer "walk_loop"
-	addlayer "freefall_loop"
-	addlayer "firemode_offset"
-	addlayer "grip_ang_offset"
-	addlayer "grip_vert_offset"
-	addlayer "grip_vert_pro_offset"
-	addlayer "grip_vert_pro_smg_offset"
-	addlayer "grip_smg_pose_offset"
-	addlayer "grip_smg_anggrip_offset"
+	$include "macros/layers_noaim.qc"
+
 
 	$include "macros/ik.qc"
 
@@ -32,18 +23,8 @@ $sequence "ads_out" {
 { event 9011 0 "1" }
 { event 9011 0 "1" }
 	//$include "macros/layers_noaim.qc"
+	$include "macros/layers_noaim.qc"
 
-	addlayer "jog_loop"
-	addlayer "jog_offset"
-	addlayer "walk_loop"
-	addlayer "freefall_loop"
-	addlayer "firemode_offset"
-	addlayer "grip_ang_offset"
-	addlayer "grip_vert_offset"
-	addlayer "grip_vert_pro_offset"
-	addlayer "grip_vert_pro_smg_offset"
-	addlayer "grip_smg_pose_offset"
-	addlayer "grip_smg_anggrip_offset"
 
 	$include "macros/ik.qc"
 

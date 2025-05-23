@@ -5,9 +5,10 @@ $illumposition 0 0 0
 
 $origin 0 0 0 -90
 
-$bodygroup "worldmodel"
+$bodygroup "receiver"
 {
 	studio "meshes/w_asierra12.smd"
+	blank
 }
 
 $bodygroup "tag_top_rail"

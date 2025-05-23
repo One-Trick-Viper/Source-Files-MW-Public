@@ -1,4 +1,8 @@
 // Weights
+$weightlist mag2_fuckoff {
+	"j_mag2" 0.0
+}
+
 
 // To Sub
 $animation grip_vert_idle_to_sub "anims\vm_lm_mkilo3_idle.smd"

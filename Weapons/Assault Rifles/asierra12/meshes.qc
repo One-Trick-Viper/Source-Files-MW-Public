@@ -8,6 +8,7 @@ $origin 0 0 0 -90
 $bodygroup "receiver"
 {
 	studio "meshes/attachment_vm_ar_asierra12_receiver.smd"
+	blank
 }
 
 $bodygroup "tag_top_rail"

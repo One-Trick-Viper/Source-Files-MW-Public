@@ -1,0 +1,19 @@
+// To Sub
+$animation jump_to_sub "anims\iw8_vm_default_jump.smd"
+
+// Delta
+$sequence "a_jumpdelta" {
+	"anims\iw8_vm_default_jump.smd" 
+	subtract jump_to_sub 0
+	delta
+}
+
+// Sequence
+$sequence "jump" {
+	"anims\vm_pi_cpapa_stock_idle.smd" //this is one frame so fps 1 is 1 second
+	fps 2.727 // 30 divided by the number of frames of jump
+	addlayer "a_jumpdelta"
+	$include "macros\layers_noemptyoffset.qc"
+	ikrule rhand touch "tag_pistol_offset" usesource
+    ikrule lhand touch "tag_pistol_offset" usesource
+}

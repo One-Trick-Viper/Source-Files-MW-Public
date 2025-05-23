@@ -61,6 +61,7 @@ $sequence "semi_off" {
 
 $sequence "draw_first" {
 	"anims/vm_sm_mpapa7_raise_first.smd"
+{ event 9011 0 "0" }
 { event 5004 1 "wfoly_plr_sm_mpapa7_raise_first_01" }
 { event 5004 12 "wfoly_plr_sm_mpapa7_raise_first_02" }
 { event 5004 16 "Viewmodel.Large" }

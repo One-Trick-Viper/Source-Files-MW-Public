@@ -1,10 +1,10 @@
 // To Sub
-$animation jog_offset_to_sub "anims\s4_vm_ar_stango44_base_jog_to_walk.smd"
+$animation jog_offset_to_sub "anims\vm_ar_mike4_jog_to_walk.smd"
 $animation jog_idle_to_sub "anims\s4_vm_ar_m1golf_base_idle.smd"
 
 // Subbed
 $animation a_jog_offset_idle "anims\s4_vm_ar_m1golf_base_idle.smd" fps 0.416 subtract jog_idle_to_sub 0
-$animation a_jog_offset "anims\s4_vm_ar_stango44_base_jog_offset_additive.smd" fps 30 subtract jog_offset_to_sub 23
+$animation a_jog_offset "anims\vm_ar_mike4_jog_offset_additive.smd" fps 30 subtract jog_offset_to_sub 23
 
 // Delta
 $sequence "jog_offset" {

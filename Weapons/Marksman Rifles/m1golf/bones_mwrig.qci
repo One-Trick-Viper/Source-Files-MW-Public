@@ -35,10 +35,10 @@ $definebone "j_metapinky_le_1" "j_wrist_le" 0.600179 1.080261 -0.339485 -12.1758
 $definebone "j_pinky_le_1" "j_metapinky_le_1" 2.19973 0.000523 0.00012 0.062349 29.037146 -1.862056 0 0 0 0 0 0
 $definebone "j_pinky_le_2" "j_pinky_le_1" 1.179317 0.000221 -0.000694 0.00001 21.835763 0.000006 0 0 0 0 0 0
 $definebone "j_pinky_le_3" "j_pinky_le_2" 0.680126 -0.001228 0.000442 0.000006 31.299612 0.000011 0 0 0 0 0 0
-$definebone "valvebiped.bip01_l_finger42" "j_pinky_le_3" 0.505669 0.218456 -0.077537 2.137592 11.506214 159.286965 0 0 0 0 0 0
-$definebone "valvebiped.bip01_l_finger41" "j_pinky_le_2" 0.36602 0.087065 -0.113057 -2.82605 29.713481 159.365976 0 0 0 0 0 0
+$definebone "valvebiped.bip01_l_finger42" "j_pinky_le_3" -0.5 0.218456 -0.077537 2.137592 0 159.286965 0 0 0 0 0 0
+$definebone "valvebiped.bip01_l_finger41" "j_pinky_le_2" -0.5 0.0 -0 -0 0 180 0 0 0 0 0 0
 $definebone "j_proc_pinky_le_1" "j_pinky_le_1" -0.000198 0.099632 -0.00003 0.000011 -17.996667 -0.000004 0 0 0 0 0 0
-$definebone "valvebiped.bip01_l_finger4" "j_pinky_le_1" 0.345573 -0.37907 -0.368974 -11.212714 27.586876 162.344881 0 0 0 0 0 0
+$definebone "valvebiped.bip01_l_finger4" "j_pinky_le_1" 0 -0 -0 0 0 180 0 0 0 0 0 0
 $definebone "j_webbing_le_3" "j_metapinky_le_1" 0.59943 0.958702 -0.300687 0.000067 0.000164 -10.000698 0 0 0 0 0 0
 $definebone "j_metaring_le_1" "j_wrist_le" 0.609754 0.400167 -0.009403 -7.991971 1.981742 -99.407263 0 0 0 0 0 0
 $definebone "j_ring_le_1" "j_metaring_le_1" 2.56041 -0.000164 0.00003 1.525048 40.211882 3.256352 0 0 0 0 0 0

@@ -60,6 +60,7 @@ $sequence "semi_off" {
 
 $sequence "draw_first" {
 	"anims/vm_sm_smgolf45_raise_first.smd"
+{ event 9011 0 "0" }
 { event 5004 2 "wfoly_plr_sm_smgolf45_raise_first_01" }
 { event 5004 8 "wfoly_plr_sm_smgolf45_raise_first_02" }
 { event 5004 9 "Viewmodel.Small" }

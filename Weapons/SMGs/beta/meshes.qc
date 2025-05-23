@@ -7,6 +7,7 @@ $origin 0 0 0 -90
 $bodygroup "receiver"
 {
 	studio "meshes/attachment_vm_sm_beta_receiver.smd"
+	blank
 }
 
 $bodygroup "tag_laser"
@@ -19,6 +20,7 @@ $bodygroup "tag_rail"
 {
 	blank
 	studio "meshes/attachment_vm_sm_beta_tag_rail.smd"
+	blank
 }
 
 $bodygroup "tag_stock"

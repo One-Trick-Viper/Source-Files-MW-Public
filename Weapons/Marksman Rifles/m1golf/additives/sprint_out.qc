@@ -2,11 +2,11 @@
 
 
 // To Sub
-$animation sprint_out_to_sub "anims\s4_vm_ar_stango44_base_sprint_to_walk.smd"
+$animation sprint_out_to_sub "anims\vm_ar_mike4_sprint_to_walk.smd"
 
 // Delta
 $sequence "a_sprint_to_walk" {
-	"anims\s4_vm_ar_stango44_base_sprint_to_walk.smd"
+	"anims\vm_ar_mike4_sprint_to_walk.smd"
 	subtract sprint_out_to_sub 23
 	delta
 }

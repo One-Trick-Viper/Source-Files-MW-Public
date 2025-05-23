@@ -42,14 +42,11 @@ nodes
 37 "j_spine4" 26
 38 "j_proc_spineupper" 26
 39 "j_trigger" 28
-40 "tag_acog_2" 28
 41 "tag_align_gun" 28
 42 "tag_barrel_attach" 28
 43 "tag_brass" 28
 44 "tag_cosmetic" 28
 45 "tag_folding_grip" 28
-46 "tag_holo" 28
-47 "tag_hybrid" 28
 48 "tag_ik_loc_le" 28
 49 "tag_ik_loc_le_akimbo" 28
 50 "tag_ik_loc_le_mover" 28
@@ -61,10 +58,7 @@ nodes
 56 "tag_mount_pivot" 28
 57 "tag_optic_mount" 28
 58 "tag_pistolgrip_attach" 28
-59 "tag_reflex" 28
-60 "tag_scope" 28
 61 "tag_stock_attach" 28
-62 "tag_thermal" 28
 63 "j_charging_handle" 28
 64 "j_charging_handle_front" 28
 65 "j_ejection_lid" 28

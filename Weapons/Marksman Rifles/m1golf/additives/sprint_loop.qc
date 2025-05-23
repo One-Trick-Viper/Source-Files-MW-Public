@@ -3,12 +3,12 @@ $weightlist "weights_righthand" {
 }
 
 //To Sub
-$animation a_sprint_idle_to_sub "anims\s4_vm_ar_stango44_base_sprint_idle.smd" // Normal idle animation but as long as the walk loop.
-$animation a_sprint_to_sub "anims\s4_vm_ar_stango44_base_sprint_loop.smd"
+$animation a_sprint_idle_to_sub "anims\vm_ar_mike4_sprint_idle.smd" // Normal idle animation but as long as the walk loop.
+$animation a_sprint_to_sub "anims\vm_ar_mike4_sprint_loop.smd"
 
 //Subbed
-$animation a_sprint_idle "anims\s4_vm_ar_stango44_base_sprint_idle.smd" subtract a_sprint_idle_to_sub 0
-$animation a_sprint "anims\s4_vm_ar_stango44_base_sprint_loop.smd" fps 30 subtract a_sprint_to_sub 0
+$animation a_sprint_idle "anims\vm_ar_mike4_sprint_idle.smd" subtract a_sprint_idle_to_sub 0
+$animation a_sprint "anims\vm_ar_mike4_sprint_loop.smd" fps 30 subtract a_sprint_to_sub 0
 
 // Delta
 $sequence "sprint_loop" {

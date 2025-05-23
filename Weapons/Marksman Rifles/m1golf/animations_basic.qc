@@ -63,6 +63,54 @@ $sequence "reload_empty" {
 	snap
 }
 
+$sequence "reload_xmag" {
+	"anims/s4_vm_ar_m1golf_extmag_reload.smd"
+	"anims/s4_vm_ar_m1golf_extmag_ads_reload.smd"
+
+	$include "macros/aim_blend.qc"
+	$include "macros/layers_noemptyoffset.qc"
+	$include "macros/ik.qc"
+
+	fps 30
+	snap
+}
+
+$sequence "reload_empty_xmag" {
+	"anims/s4_vm_ar_m1golf_extmag_reload_empty.smd"
+	"anims/s4_vm_ar_m1golf_extmag_ads_reload_empty.smd"
+
+	$include "macros/aim_blend.qc"
+	$include "macros/layers_noemptyoffset.qc"
+	$include "macros/ik.qc"
+
+	fps 30
+	snap
+}
+
+$sequence "reload_drum" {
+	"anims/s4_vm_ar_m1golf_xxlmag_reload.smd"
+	"anims/s4_vm_ar_m1golf_xxlmag_ads_reload.smd"
+
+	$include "macros/aim_blend.qc"
+	$include "macros/layers_noemptyoffset.qc"
+	$include "macros/ik.qc"
+
+	fps 30
+	snap
+}
+
+$sequence "reload_empty_drum" {
+	"anims/s4_vm_ar_m1golf_xxlmag_reload_empty.smd"
+	"anims/s4_vm_ar_m1golf_xxlmag_ads_reload_empty.smd"
+
+	$include "macros/aim_blend.qc"
+	$include "macros/layers_noemptyoffset.qc"
+	$include "macros/ik.qc"
+
+	fps 30
+	snap
+}
+
 $sequence "fire" {
 	"anims/s4_vm_ar_m1golf_base_fire.smd"
 	"anims/s4_vm_ar_m1golf_base_ads_fire.smd"
@@ -76,7 +124,7 @@ $sequence "fire" {
 }
 
 $sequence "fire_last" {
-	"anims/s4_vm_ar_m1golf_base_fire.smd"
+	"anims/s4_vm_ar_m1golf_base_fire_last.smd"
 	"anims/s4_vm_ar_m1golf_base_ads_fire_last.smd"
 
 	$include "macros/aim_blend.qc"

@@ -27,7 +27,7 @@ $contents "solid"
 $mostlyopaque
 
 // Materials
-$cdmaterials "viper\MW\weapons\m1golf\"
+$cdmaterials "viper\vg\weapons\m1golf\"
 $cdmaterials "viper\MW\attachments\"
 
 //Ik

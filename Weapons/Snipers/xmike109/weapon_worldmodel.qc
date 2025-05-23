@@ -3,7 +3,7 @@ $maxverts 999999
 
 $illumposition 0 0 0
 
-$modelname "viper/mw/weapons/w_delta.mdl"
+$modelname "viper/mw/weapons/w_xmike109.mdl"
 
 // Meshes
 $include meshes_worldmodel.qc
@@ -19,9 +19,9 @@ $contents "solid"
 $mostlyopaque
 
 // Materials
-$cdmaterials "viper\MW\weapons\delta\"
+$cdmaterials "viper\MW\weapons\xmike109\"
 $cdmaterials "viper\MW\attachments\"
 
 $sequence "reference" {
-	"meshes/w_delta.smd"
+	"meshes/w_xmike109.smd"
 }

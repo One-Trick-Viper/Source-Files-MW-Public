@@ -1,0 +1,16 @@
+2,ik_out_start_left_hand
+3,ps_wfoly_plr_arstandard_inspect_pt1
+4,fingers_out_start_left_hand
+5,ik_out_end_left_hand
+7,fingers_out_end_left_hand
+35,ps_wfoly_plr_arstandard_inspect_pt2
+74,ps_wfoly_plr_arstandard_inspect_pt3
+88,ps_wfoly_plr_arstandard_inspect_pt4
+99,ps_wfoly_plr_arstandard_inspect_pt5
+112,ps_wfoly_plr_arstandard_inspect_pt6
+132,ps_wfoly_plr_arstandard_inspect_pt7
+143,fingers_in_start_left_hand
+144,ik_in_start_left_hand
+147,fingers_in_end_left_hand
+149,ik_in_end_left_hand
+155,end
